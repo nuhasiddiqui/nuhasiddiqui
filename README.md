@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, my name is Nuha Siddiqui!
+☄️ I'm a recent graduate from the University of Texas at Dallas.
+🎓 B.S. Electrical Engineering ‘23 
+🖥️ I am currently enrolled in a full-stack web development bootcamp,    known as Tech Elevator. It's grouped under web technology or information technology (IT), and has a computer science component.
+🏦 After completeing this bootcamp, I will join the Software Engineer Program (SEP) at JP Morgan Chase & Co! 
